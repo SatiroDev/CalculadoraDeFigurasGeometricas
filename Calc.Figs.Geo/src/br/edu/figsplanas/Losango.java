@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Losango {
 	// atributos
-	public double dMaior;
-	public double dMenor;
-	public double area;	
+	private double dMaior;
+	private double dMenor;
+	private double area;	
 	// métodos
 	
 	public void recebeDiametroMaior() {
@@ -54,5 +54,6 @@ public class Losango {
 		System.out.println("-------------------------------------");
 		
 	}
+
 
 }
