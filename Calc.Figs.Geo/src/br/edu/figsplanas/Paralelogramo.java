@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Paralelogramo {
 	// atributos
 	
-	public double base;
-	public double altura;
-	public double area;
+	private double base;
+	private double altura;
+	private double area;
 			
 	// métodos
 	public void recebeAltura() {
@@ -52,4 +52,5 @@ public class Paralelogramo {
 		System.out.println("-------------------------------------");
 		
 	}
+
 }
