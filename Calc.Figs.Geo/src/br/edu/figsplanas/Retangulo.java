@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Retangulo {
 	// atributos
 	
-	public double base;
-	public double altura;
-	public double area;
+	private double base;
+	private double altura;
+	private double area;
 			
 	// métodos
 	
@@ -56,4 +56,5 @@ public class Retangulo {
 		System.out.println("-------------------------------------");
 		
 	}
+
 }
