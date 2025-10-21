@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Circulo {
 	// atributos
-	public double area;
-	public double raio;
+	private double area;
+	private double raio;
 			
 	// métodos
 	public void recebeRaio() {
@@ -41,3 +41,4 @@ public class Circulo {
 	}
 	
 }
+
