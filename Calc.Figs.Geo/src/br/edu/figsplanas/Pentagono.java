@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Pentagono {
 	// atributos
 	
-	public double lado;
-	public double perimetro;
-	public double apotema;
-	public double area;
+	private double lado;
+	private double perimetro;
+	private double apotema;
+	private double area;
 			
 	// métodos
 	public void recebeLado() {
@@ -45,4 +45,5 @@ public class Pentagono {
 		
 	}
 	
+
 }
