@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Trapezio {
 	// atributos
 	
-	public double baseMaior;
-	public double baseMenor;
-	public double altura;
-	public double area;
+	private double baseMaior;
+	private double baseMenor;
+	private double altura;
+	private double area;
 			
 	// métodos
 	public void recebeAltura() {
@@ -74,4 +74,5 @@ public class Trapezio {
 		System.out.println("-------------------------------------");
 		
 	}
+
 }
