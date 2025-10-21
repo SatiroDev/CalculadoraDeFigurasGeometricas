@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Quadrado {
 	// atributos
-	public double lado;
-	public double area;
+	private double lado;
+	private double area;
 		
 	// métodos
 	public void recebeLado() {
@@ -42,3 +42,4 @@ public class Quadrado {
 	}
 	
 }
+
