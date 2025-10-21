@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Hexagono {
 	// atributos
-	public double lado;
-	public double area;
+	private double lado;
+	private double area;
 			
 	// métodos
 	public void recebeLado() {
@@ -40,4 +40,5 @@ public class Hexagono {
 		System.out.println("-------------------------------------");
 		
 	}
+
 }
