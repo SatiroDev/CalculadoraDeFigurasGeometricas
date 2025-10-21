@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Triangulo {
 	
 	// atributos
-	public double base;
-	public double altura;
-	public double area;
+	private double base;
+	private double altura;
+	private double area;
 	
 	// métodos
 	
@@ -52,3 +52,4 @@ public class Triangulo {
 		System.out.println("-------------------------------------");
 	}
 }
+
